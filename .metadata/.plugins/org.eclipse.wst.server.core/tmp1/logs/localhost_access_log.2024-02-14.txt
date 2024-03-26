@@ -1,0 +1,12 @@
+127.0.0.1 - - [14/Feb/2024:16:30:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:30:52 +0530] "GET /NumberlistApplication/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:30:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:31:00 +0530] "GET /NumberlistApplication/Numberlist.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:31:13 +0530] "GET /NumberlistApplication/NumberlistServlet?start=1&end=200&operation=Strong HTTP/1.1" 200 126
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:32:12 +0530] "GET /NumberlistApplication/NumberlistServlet?start=100&end=200&operation=Strong HTTP/1.1" 200 122
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:32:23 +0530] "GET /NumberlistApplication/NumberlistServlet?start=100&end=200&operation=Even HTTP/1.1" 200 370
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:32:34 +0530] "GET /NumberlistApplication/NumberlistServlet?start=10&end=2000&operation=Odd HTTP/1.1" 200 5544
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:33:19 +0530] "GET /NumberlistApplication/NumberlistServlet?start=10&end=2000&operation=Even HTTP/1.1" 200 5551
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:33:29 +0530] "GET /NumberlistApplication/NumberlistServlet?start=1000&end=2000&operation=Even HTTP/1.1" 200 3123
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:33:45 +0530] "GET /NumberlistApplication/NumberlistServlet?start=10&end=200&operation=Prime HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:16:34:49 +0530] "GET /NumberlistApplication/NumberlistServlet?start=10&end=200&operation=Strong HTTP/1.1" 200 121

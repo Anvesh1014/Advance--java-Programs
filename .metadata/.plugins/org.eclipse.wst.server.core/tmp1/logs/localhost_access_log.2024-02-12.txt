@@ -1,0 +1,5 @@
+127.0.0.1 - - [12/Feb/2024:17:41:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:41:53 +0530] "GET /RegistrationApplication/ HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:41:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:42:24 +0530] "GET /RegistrationApplication/register.html HTTP/1.1" 200 1970
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:17:43:52 +0530] "GET /RegistrationApplication/RegisterServlet?username=Anvesh&password=anvesh123&mobile=9502351535&email=anvesh%40gmail.com&gender=Male&dob=2000-08-10&qualification=BCA&qualification=MCA&country=India&languages=Telugu&languages=English&languages=Hindi&comments=This+is+the+advance+java+concept+servlet+program+result. HTTP/1.1" 200 360

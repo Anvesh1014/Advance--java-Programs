@@ -1,0 +1,6 @@
+127.0.0.1 - - [04/Mar/2024:18:03:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:18:03:57 +0530] "GET /ProductManagementApp/ HTTP/1.1" 200 2563
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:18:03:57 +0530] "GET /ProductManagementApp/formvalidation.js HTTP/1.1" 200 1391
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:18:04:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:18:05:33 +0530] "POST /ProductManagementApp/AddProductServlet HTTP/1.1" 500 1515
+0:0:0:0:0:0:0:1 - - [04/Mar/2024:18:05:59 +0530] "POST /ProductManagementApp/AddProductServlet HTTP/1.1" 200 33
